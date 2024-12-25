@@ -1,2 +1,1 @@
-HTML,
-CSS
+Portfolio website using HTML, CSS.
